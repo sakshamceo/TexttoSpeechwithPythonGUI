@@ -2,7 +2,6 @@
 ![image](https://user-images.githubusercontent.com/59284238/119860895-6c3be000-bf34-11eb-8be2-44755c9115c0.png)
 #### using <code>pip install playsound</code> and <code> pip install gTTS </code>
 #### we can import <code>tkinter</code> gui on our system
-<br>
 #### for background i used 2 labels 
 label 1 lightblue'
 label 2 green
